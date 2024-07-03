@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199835417657",
+    "project_id": "quotology-4c44a",
+    "storage_bucket": "quotology-4c44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199835417657:android:f8ed9b4c1a8494b45fa1e8",
+        "android_client_info": {
+          "package_name": "com.example.quotology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMa6bUsBXfHFAWowCztWZp6Yke8dyGr9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
